@@ -86,7 +86,7 @@ The video layout relies on a calculated **Hybrid Format** (Alternating between C
 
 ```
 ┌──────────────────────────┐      ┌──────────────────────────┐      ┌──────────────────────────┐
-│  STEP 1: SCAN THE HYPE   │ ───► │ STEP 2: APPLY FILTERS   │ ───► │  STEP 3: ELITE UTTERANCE │
+│  STEP 1: SCAN THE HYPE   │ ───► │ STEP 2: APPLY FILTERS    │ ───► │  STEP 3: ELITE UTTERANCE │
 └──────────────────────────┘      └──────────────────────────┘      └──────────────────────────┘
  Monitor global data feeds         Draft script balancing play-      Render with kinetic subs,
  (FIFA, Tech Wars, Wall St,       fulness with complex supply        US Accent, premium audio,
